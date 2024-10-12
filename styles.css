@@ -1,0 +1,34 @@
+.table1, .table2, .table3, .table4 {
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 100%;
+}
+
+.table11 th, .table11 td {
+    border-bottom: 2px solid black;
+}
+
+.table12 th, .table12 td
+{
+    border-bottom: 2px solid black;
+}
+
+.table13 th, .table13 td
+{
+    border-bottom: 2px solid black;
+}
+
+.table14 th, .table14 td
+{
+    border-bottom: 2px solid black;
+}
+
+
+img {
+    width: 110px;
+    height: 100px;
+}
+
+td{
+    font-style: italic;
+}
